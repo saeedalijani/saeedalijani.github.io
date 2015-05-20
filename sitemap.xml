@@ -5,6 +5,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://saeedalinai.github.io/2015/index.html</loc>
+  <lastmod>2015-05-21</lastmod>
+ </url>
+ <url>
   <loc>http://saeedalinai.github.io/archive.html</loc>
   <lastmod>2015-05-21</lastmod>
  </url>
@@ -22,6 +26,10 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/listings/index.html</loc>
+  <lastmod>2015-05-21</lastmod>
+ </url>
+ <url>
+  <loc>http://saeedalinai.github.io/posts/test.html</loc>
   <lastmod>2015-05-21</lastmod>
  </url>
 </urlset>
