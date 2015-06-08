@@ -2,7 +2,7 @@
 .. title: چیزی که من از دانش آزاد می‌خوام
 .. slug: free-knowledg-1
 .. date: 2015-05-21 12:11:36 UTC
-.. tags: دانش آزاد,دوستی,آزادی
+.. tags: دانش آزاد,دوستی,آزادی,free knowledge
 .. category: 
 .. link: 
 .. description: 
