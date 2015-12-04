@@ -313,12 +313,12 @@ section {
 .page-content {
   min-height: 100%;
   padding: 48px 0 60px 42px;
-  margin-left: 180px;
+  margin-right: 240px;
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {
-    padding-left: 24px;
-    margin-left: 214px;
+    padding-right: 240px;
+    margin-right: 240px;
   }
 }
 @media (max-width: 773px) {
