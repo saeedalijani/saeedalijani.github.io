@@ -317,8 +317,8 @@ section {
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {
-    padding-right: 240px;
-    margin-right: 240px;
+    padding-right: 24px;
+    margin-right: 214px;
   }
 }
 @media (max-width: 773px) {
