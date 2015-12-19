@@ -2,8 +2,8 @@
 .. title: رویای رسیدن به تو
 .. slug: royaye-residan-be-to
 .. date: 2015-11-30 23:14:45 UTC
-.. tags: 
-.. category: رباعی
+.. tags: رباعی
+.. category:
 .. link: 
 .. description: 
 .. type: text
