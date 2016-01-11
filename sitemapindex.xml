@@ -5,8 +5,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://saeedalinai.github.io/categories/anrshysm.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalinai.github.io/categories/azdy.xml</loc>
-  <lastmod>2015-12-04</lastmod>
+  <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/categories/community.xml</loc>
@@ -14,7 +18,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/categories/dnsh-azd.xml</loc>
-  <lastmod>2015-12-09</lastmod>
+  <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/categories/dwsty.xml</loc>
@@ -33,6 +37,18 @@
   <lastmod>2015-12-09</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://saeedalinai.github.io/categories/frhng-azd.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/categories/fyltryng.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/categories/hkhwmt-yrn.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalinai.github.io/categories/idealism.xml</loc>
   <lastmod>2015-12-04</lastmod>
  </sitemap>
@@ -49,12 +65,28 @@
   <lastmod>2015-12-09</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://saeedalinai.github.io/categories/ntqd.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/categories/qtdr.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/categories/snswr.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/categories/syst.xml</loc>
+  <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalinai.github.io/categories/ydhalgryy.xml</loc>
   <lastmod>2015-12-04</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/galleries/rss.xml</loc>
-  <lastmod>2015-12-04</lastmod>
+  <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/cat_gzl.xml</loc>
@@ -66,7 +98,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/chrprh.xml</loc>
-  <lastmod>2015-12-01</lastmod>
+  <lastmod>2015-12-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/gzl-mthnwy.xml</loc>
@@ -74,15 +106,19 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/gzl.xml</loc>
-  <lastmod>2015-12-08</lastmod>
+  <lastmod>2016-01-03</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalinai.github.io/poem/categories/gzlwrh.xml</loc>
+  <lastmod>2015-12-21</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/mhwrh.xml</loc>
-  <lastmod>2015-12-08</lastmod>
+  <lastmod>2016-01-09</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/mthnwy.xml</loc>
-  <lastmod>2015-12-01</lastmod>
+  <lastmod>2015-12-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/rby-pywsth.xml</loc>
@@ -90,26 +126,26 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/categories/rby.xml</loc>
-  <lastmod>2015-12-01</lastmod>
+  <lastmod>2015-12-21</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/galleries/rss.xml</loc>
-  <lastmod>2015-11-30</lastmod>
+  <lastmod>2016-01-03</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/rss.xml</loc>
-  <lastmod>2015-12-08</lastmod>
+  <lastmod>2016-01-09</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/sitemap.xml</loc>
-  <lastmod>2015-12-08</lastmod>
+  <lastmod>2016-01-09</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/rss.xml</loc>
-  <lastmod>2015-12-09</lastmod>
+  <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/sitemap.xml</loc>
-  <lastmod>2015-12-09</lastmod>
+  <lastmod>2016-01-12</lastmod>
  </sitemap>
 </sitemapindex>
