@@ -5,12 +5,16 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://saeedalijani.github.io/categories/aghy.xml</loc>
+  <lastmod>2016-02-29</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalijani.github.io/categories/anrshysm.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/azdy.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/community.xml</loc>
@@ -18,7 +22,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/dnsh-azd.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/dwsty.xml</loc>
@@ -30,11 +34,15 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/free-knowledge.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/free-software.xml</loc>
   <lastmod>2016-01-12</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalijani.github.io/categories/freedom.xml</loc>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/frhng-azd.xml</loc>
@@ -50,7 +58,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/idealism.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/individualism.xml</loc>
@@ -58,7 +66,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/jmh.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/nrmfzr-azd.xml</loc>
@@ -82,7 +90,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/ydhalgryy.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/galleries/rss.xml</loc>
@@ -142,10 +150,10 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/rss.xml</loc>
-  <lastmod>2016-02-24</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/sitemap.xml</loc>
-  <lastmod>2016-02-24</lastmod>
+  <lastmod>2016-02-29</lastmod>
  </sitemap>
 </sitemapindex>
