@@ -1,20 +1,14 @@
-@font-face {
-  font-family: 'Bitter';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Bitter-Regular'), url('../fonts/SHIcXhdd5RknatSgOzyEkA.woff') format('woff');
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+p,a{
+font-family:'Droid Arabic Naskh';
+
 }
-@font-face {
-  font-family: 'Bitter';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Bitter-Bold'), url('../fonts/evC1haE-MsorTl_A7_uSGT8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
-}
-@font-face {
-  font-family: 'Bitter';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Bitter-Italic'), url('../fonts/eMS0tViDqryBl0EG1pqFZfesZW2xOQ-xsNqO47m55DA.woff') format('woff');
+.meta{
+font-family:'Droid Arabic Kufi';
 }
 
 .addthis_peekaboo_style a {
@@ -124,7 +118,7 @@ video {
   font-weight: inherit;
   font-style: inherit;
   font-size: 100%;
-  font-family: inherit;
+ /* font-family: inherit;*/
 }
 article,
 aside,
@@ -335,7 +329,8 @@ section {
 .page-content {
   min-height: 100%;
   padding: 48px 0 60px 42px;
-  margin-right: 240px;
+  margin-right: 200px;
+  font-family:'Droid Arabic Naskh';
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {
@@ -2192,11 +2187,14 @@ a:focus {
 .page-content > .content .h5,
 .page-content > .content .h6 {
   margin: 12px 0;
-  font-family: inherit;
+  /*font-family: inherit;*/
   font-weight: bold;
   line-height: 24px;
   color: #2e2e2e;
   text-rendering: optimizelegibility;
+  font-family:'Droid Arabic Kufi';
+  text-align:center;
+
 }
 .page-content > .content h1 small,
 .page-content > .content h2 small,
@@ -2219,6 +2217,8 @@ a:focus {
 .page-content > .content h2,
 .page-content > .content .h2 {
   line-height: 48px;
+  font-family:'Droid Arabic Kufi';
+  text-align:center;
 }
 .page-content > .content h3,
 .page-content > .content .h3 {
@@ -2444,6 +2444,7 @@ pre.code {
 }
 .post h1.title {
   margin: 6px 0;
+  font-family:'Droid Arabic Kufi';
 }
 .post h1.title a {
   color: inherit;
