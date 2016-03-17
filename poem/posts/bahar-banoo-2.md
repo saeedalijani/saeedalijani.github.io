@@ -1,8 +1,8 @@
 <!-- 
-.. title: bahar-banoo-2
+.. title: بهار بانو ۲
 .. slug: bahar-banoo-2
 .. date: 2016-03-17 17:12:55 UTC
-.. tags: 
+.. tags: غزل
 .. category: 
 .. link: 
 .. description: 
