@@ -2,7 +2,7 @@
 .. title: فرهنگ آزاد و مقابله با نظارت و کنترل از بالا
 .. slug: free-culture-1
 .. date: 2016-04-19 19:01:13 UTC
-.. tags: 
+.. tags: آزادی, سانسور, فرهنگ آزاد, نظارت
 .. category: 
 .. link: 
 .. description: 

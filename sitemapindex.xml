@@ -14,7 +14,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/azdy.xml</loc>
-  <lastmod>2016-02-29</lastmod>
+  <lastmod>2016-04-20</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/community.xml</loc>
@@ -46,7 +46,7 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/frhng-azd.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-04-20</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/fyltryng.xml</loc>
@@ -77,12 +77,20 @@
   <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://saeedalijani.github.io/categories/nzrt.xml</loc>
+  <lastmod>2016-04-20</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalijani.github.io/categories/qtdr.xml</loc>
   <lastmod>2016-01-12</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/snswr.xml</loc>
-  <lastmod>2016-01-12</lastmod>
+  <lastmod>2016-04-20</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://saeedalijani.github.io/categories/ssnswr.xml</loc>
+  <lastmod>2016-04-20</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/categories/syst.xml</loc>
@@ -154,10 +162,10 @@
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/rss.xml</loc>
-  <lastmod>2016-04-19</lastmod>
+  <lastmod>2016-04-20</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalijani.github.io/sitemap.xml</loc>
-  <lastmod>2016-04-19</lastmod>
+  <lastmod>2016-04-20</lastmod>
  </sitemap>
 </sitemapindex>
