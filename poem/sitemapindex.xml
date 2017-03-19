@@ -53,15 +53,19 @@
   <lastmod>2016-05-24</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://saeedalinai.github.io/poem/categories/tkhbyt.xml</loc>
+  <lastmod>2017-03-19</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://saeedalinai.github.io/poem/galleries/rss.xml</loc>
   <lastmod>2017-01-25</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/rss.xml</loc>
-  <lastmod>2017-01-26</lastmod>
+  <lastmod>2017-03-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://saeedalinai.github.io/poem/sitemap.xml</loc>
-  <lastmod>2017-01-26</lastmod>
+  <lastmod>2017-03-19</lastmod>
  </sitemap>
 </sitemapindex>
