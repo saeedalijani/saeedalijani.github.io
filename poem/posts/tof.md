@@ -3,7 +3,7 @@
 .. slug: tof
 .. date: 2016-04-13 11:52:11 UTC
 .. tags: چارپاره
-.. category: چارپاره
+.. category:
 .. link: 
 .. description: 
 .. type: text
