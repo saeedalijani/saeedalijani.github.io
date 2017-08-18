@@ -1,14 +1,20 @@
-
-
-@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
-@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
-
-p,a{
-font-family:'Droid Arabic Naskh';
-
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'), url('../fonts/SHIcXhdd5RknatSgOzyEkA.woff') format('woff');
 }
-.meta{
-font-family:'Droid Arabic Kufi';
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Bitter-Bold'), url('../fonts/evC1haE-MsorTl_A7_uSGT8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Bitter-Italic'), url('../fonts/eMS0tViDqryBl0EG1pqFZfesZW2xOQ-xsNqO47m55DA.woff') format('woff');
 }
 
 .addthis_peekaboo_style a {
@@ -118,7 +124,7 @@ video {
   font-weight: inherit;
   font-style: inherit;
   font-size: 100%;
- /* font-family: inherit;*/
+  font-family: inherit;
 }
 article,
 aside,
@@ -329,8 +335,7 @@ section {
 .page-content {
   min-height: 100%;
   padding: 48px 0 60px 42px;
-  margin-right: 200px;
-  font-family:'Droid Arabic Naskh';
+  margin-right: 240px;
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {
@@ -391,10 +396,10 @@ section {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?v=3.2.1');
-  src: url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
-  src: url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?v=3.2.1');
-  src: url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
+  src: url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?v=3.2.1');
+  src: url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
+  src: url('http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?v=3.2.1');
+  src: url('http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -2187,14 +2192,11 @@ a:focus {
 .page-content > .content .h5,
 .page-content > .content .h6 {
   margin: 12px 0;
-  /*font-family: inherit;*/
+  font-family: inherit;
   font-weight: bold;
   line-height: 24px;
   color: #2e2e2e;
   text-rendering: optimizelegibility;
-  font-family:'Droid Arabic Kufi';
-  text-align:center;
-
 }
 .page-content > .content h1 small,
 .page-content > .content h2 small,
@@ -2217,8 +2219,6 @@ a:focus {
 .page-content > .content h2,
 .page-content > .content .h2 {
   line-height: 48px;
-  font-family:'Droid Arabic Kufi';
-  text-align:center;
 }
 .page-content > .content h3,
 .page-content > .content .h3 {
@@ -2444,7 +2444,6 @@ pre.code {
 }
 .post h1.title {
   margin: 6px 0;
-  font-family:'Droid Arabic Kufi';
 }
 .post h1.title a {
   color: inherit;
