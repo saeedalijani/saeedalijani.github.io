@@ -1,6 +1,6 @@
 <!-- 
-.. title: آخرین شعر در آخرین روزهای با تو بودن
-.. slug: akharin
+.. title: همین
+.. slug: hamin
 .. date: 2019-04-06 14:15:16 UTC
 .. tags: رباعی
 .. category: 
