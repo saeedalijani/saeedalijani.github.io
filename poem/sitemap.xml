@@ -22,7 +22,7 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/2019/index.html</loc>
-  <lastmod>2019-08-01</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/archive.html</loc>
@@ -58,11 +58,11 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/gzl.html</loc>
-  <lastmod>2019-07-19</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/gzlwrh.html</loc>
-  <lastmod>2019-08-01</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/index.html</loc>
@@ -74,7 +74,7 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/mthnwy.html</loc>
-  <lastmod>2019-01-18</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/rby-pywsth.html</loc>
@@ -82,7 +82,7 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/rby.html</loc>
-  <lastmod>2019-07-19</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/categories/spyd.html</loc>
@@ -102,7 +102,7 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/index-10.html</loc>
-  <lastmod>2019-08-01</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/index-2.html</loc>
@@ -138,11 +138,15 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/index.html</loc>
-  <lastmod>2019-08-01</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/listings/index.html</loc>
   <lastmod>2019-01-18</lastmod>
+ </url>
+ <url>
+  <loc>http://saeedalinai.github.io/poem/posts/aalami_no.html</loc>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/aaneman-beresad.html</loc>
@@ -314,7 +318,7 @@
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/ghofle_bi_kelid.html</loc>
-  <lastmod>2019-08-01</lastmod>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/gole-booseh.html</loc>
@@ -343,6 +347,10 @@
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/jahan-khalist.html</loc>
   <lastmod>2019-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://saeedalinai.github.io/poem/posts/jahan_khali_ast_2.html</loc>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/jane-jahan.html</loc>
@@ -425,6 +433,10 @@
   <lastmod>2019-02-27</lastmod>
  </url>
  <url>
+  <loc>http://saeedalinai.github.io/poem/posts/paye_zaman.html</loc>
+  <lastmod>2019-11-01</lastmod>
+ </url>
+ <url>
   <loc>http://saeedalinai.github.io/poem/posts/rade_khoon.html</loc>
   <lastmod>2019-01-18</lastmod>
  </url>
@@ -467,6 +479,10 @@
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/sarmashgh.html</loc>
   <lastmod>2019-01-18</lastmod>
+ </url>
+ <url>
+  <loc>http://saeedalinai.github.io/poem/posts/sarzamine_zemestan.html</loc>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/saze-eshgh.html</loc>
@@ -513,6 +529,10 @@
   <lastmod>2019-01-18</lastmod>
  </url>
  <url>
+  <loc>http://saeedalinai.github.io/poem/posts/taravat.html</loc>
+  <lastmod>2019-11-01</lastmod>
+ </url>
+ <url>
   <loc>http://saeedalinai.github.io/poem/posts/tavahome-cheshmat.html</loc>
   <lastmod>2019-01-18</lastmod>
  </url>
@@ -527,6 +547,10 @@
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/toonel.html</loc>
   <lastmod>2019-01-18</lastmod>
+ </url>
+ <url>
+  <loc>http://saeedalinai.github.io/poem/posts/vatanam_va_tanam.html</loc>
+  <lastmod>2019-11-01</lastmod>
  </url>
  <url>
   <loc>http://saeedalinai.github.io/poem/posts/vojood.html</loc>
