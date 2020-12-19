@@ -2,7 +2,7 @@
 .. title: این زمان شگفت
 .. slug: in-zamane-shegeft
 .. date: 2020-12-19 08:36:30 UTC
-.. tags: 
+.. tags: غزل, غزل‌واره
 .. category: 
 .. link: 
 .. description: 
