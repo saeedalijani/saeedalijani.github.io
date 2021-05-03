@@ -313,7 +313,7 @@ section {
 .page-content {
   min-height: 100%;
   padding: 48px 0 60px 42px;
-  margin-left: 240px;
+  margin-right: 240px;
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {
@@ -323,7 +323,7 @@ section {
 }
 @media (max-width: 773px) {
   .page-content {
-    margin-right: 0;
+    margin-left: 0;
     width: 100%;
     padding: 36px 0;
   }
